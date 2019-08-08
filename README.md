@@ -16,5 +16,8 @@ venv\Scripts\activate
 pip install flask    
 
 --- 
- 
+#### 查看虚拟环境中所安装的包
+pip freeze  
+
+--- 
  
